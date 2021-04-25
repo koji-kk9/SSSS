@@ -147,7 +147,7 @@ header {
 ---------------------------------------------------------------------------*/
 footer {
 	clear: both;
-	text-align: left;/*center;*/	/*文字をセンタリング*/
+	text-align: center;	/*文字をセンタリング*/
 	padding: 30px 0px 10px;	/*上、左右、下へのボックス内の余白*/
 }
 footer a {
